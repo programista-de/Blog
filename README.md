@@ -29,12 +29,14 @@ PHP, Js, NodeJs, ...
 * Openshift
 
 ## What I would like to learn better
-
+* ID scanning, OCR, OpenCV 
 
 ## TODO LIST
+
 ![DevOpsTerminal](https://devopsterminal.com/wp-content/uploads/2018/11/devops_terminal-cube-green-128.png)
+
 2018
-* DevOpsTerminal
+* DevOpsTerminal App
   - Get hundreds and thousands of users running and testing as quickly as possible
 * DevOpsTerminal Academy
   - Leading the online training with this tool
