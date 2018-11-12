@@ -11,8 +11,21 @@ I started with Basic programming on ZX-Spectrum and with The 7400 series of tran
 ![ZX Spectrum](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ZXSpectrum48k.jpg/330px-ZXSpectrum48k.jpg)
 
 ## IDEA'S
+My ideas are (still) living in the broad spectrum, from software to hardware.
+last 10 years I decided to focus in software.
+That's why i am really interested to support project and community in DevOps World.
+
+## How i am working on my projects
+Generally is better to make small part of code which is working, than big project which is in 99% 'done'.
+So, i decided to make my projects small as is possible, because of time and engagement.
 
 
-## TO LEARN
+## What I know in practice
+Languages: 
+PHP, Js, NodeJs, ...
+
+## WHAT I would like to know (in practice)
+* Ansible,
+* Openshift
 
 ## TODO LIST
