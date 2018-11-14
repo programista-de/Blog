@@ -1,5 +1,7 @@
 # Blog
+[Tom Sapletta Blog](https://tom-sapletta-com.github.io/Blog/)
 Static Blog based on *.md files, about my ideas, code and todo-list
+
 
 ## About me
 I'am Hardware and Software developer since my childhood
