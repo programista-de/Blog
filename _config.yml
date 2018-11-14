@@ -2,8 +2,7 @@ theme: jekyll-theme-minimal
 title: Tom Sapletta
 author: Tom Sapletta
 email: your-email@domain.com
-description: > 
-  Technical Blog on Github about my projects, history and technical skill's
+description: Technical Blog on Github about my projects, history and technical skill's
 header_pages:
   - HISTORY.md
   - PROJECTS.md
