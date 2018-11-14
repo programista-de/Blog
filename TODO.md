@@ -1,8 +1,12 @@
+## Usuniete
++ tom-sapletta-com/do  -> przenioslem i usunalem
++ tom-sapletta-com/phunc-1 -> przenioslem do phpfunc-com
+
+
 ## Co dalej, update, move?
 + tom-sapletta-com/domains-docker
 + tom-sapletta-com/domains
 + tom-sapletta-com/wlan
-+ tom-sapletta-com/do
 + tom-sapletta-com/php-gitlab-api
 
 + tom-sapletta-com/from-inventor-to-investor
@@ -13,7 +17,7 @@
 
 ## Uporzadkowac
 + apicra/packages
-+ apicra/dot
++ apicra/dot <- przenioslem dane z tom-sapletta-com/do
 + apicra/devops-book
 + apicra/tutorial
 + apicra/manager
@@ -25,7 +29,6 @@
 move/remove
 + tom-sapletta-com/devops-gui
 + tom-sapletta-com/devops
-+ tom-sapletta-com/phunc-1
 + phunc-org/Phunc
 
 ## Pilne do konca Listopada 218
@@ -36,7 +39,7 @@ kod powinien byc dobrze opisany i latwy do nauczyenia dla potencjalnych uzytkown
 
 stworzyc kolejne z repo na:
 
-sprawdzic i ewentualnie usunac/przesunac
+sprawdzic i ewentualnie usunac/przesunac do phpfunc-com
 + tom-sapletta-com/units
 + tom-sapletta-com/helpers
 
