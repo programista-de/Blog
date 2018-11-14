@@ -1,4 +1,4 @@
-# My Skill
+# My Skills
 
     * I know theoretical
 
@@ -14,4 +14,3 @@ PHP ****
 JS ****
 
 
-## 
