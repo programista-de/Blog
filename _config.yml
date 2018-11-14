@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 header_pages:
-  - about.md
-  - projects.md
+  - HISTORY.md
+  - PROJECTS.md
