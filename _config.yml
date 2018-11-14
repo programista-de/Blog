@@ -1,11 +1,9 @@
 theme: jekyll-theme-minimal
-title: Tom Sapletta Technical Blog on Github
+title: Tom Sapletta
 author: Tom Sapletta
 email: your-email@domain.com
 description: > 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Technical Blog on Github about my projects, history and technical skills
 header_pages:
   - HISTORY.md
   - PROJECTS.md
