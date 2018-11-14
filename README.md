@@ -17,12 +17,12 @@ That's why i am really interested to support project and community in DevOps Wor
 Generally is better to make small part of code which is working, than big project which is in 99% 'done'.
 So, i decided to make my projects small as is possible, because of time and engagement.
 ## My Project list
-(...)[PROJECTS.md]
+[...](PROJECTS.md)
 
 ## What I know in practice
 Languages: 
 PHP, Js, NodeJs, ...
-(SKILLS)[SKILLS.md]
+[SKILLS](SKILLS.md)
 
 ## WHAT I would like to know (in practice)
 * Ansible,
@@ -35,5 +35,5 @@ PHP, Js, NodeJs, ...
 * OpenShift on Contabo Server
 * Apicra
 * DeOpsTerminal
-(...)[TODO.md]
+[...](TODO.md)
 
