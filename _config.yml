@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 header_pages:
   - HISTORY.md
   - PROJECTS.md
+  - TODO.md
