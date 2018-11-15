@@ -9,7 +9,7 @@
 						width: 220px; 
 						position: absolute; 
 						top: 0; 
-						right: 15px;
+						right: 0px;
 						border: 1px solid #444;" />
 			<div class="post imagebg standard-height scrim" style="background-image: url(<?php echo esc_url($src); ?>);">
 				<div class="stick-to-bottom">
