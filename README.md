@@ -31,6 +31,17 @@ PHP, Js, NodeJs, ...
 ## What I would like to learn better
 * ID scanning, OCR, OpenCV 
 
+## Priorities 
+for the current month (November 2018)
+* Finish the working version of apicra.yaml
+* Finish the DevOpsTerminal just for test, without sql
+* Finish UnitApi for basic structure, first schema with inlcuding files and sctructure of using the data and function
+
+## Nice to see
+welcome in the current month (November 2018)
+* every day green activity on github
+* daily podcast...
+
 ## TODO LIST 2018
 * OpenShift on Contabo Server
 * Apicra
