@@ -59,3 +59,15 @@ article .post::before {
     padding-right: 0px;
 
 }
+
+.stick-to-bottom {
+    bottom: 15px;
+    left: 15px;
+    right: 5px;
+    z-index: 2;
+}
+
+h3, .h3 {
+    font-size: 1.6em;
+    line-height: 1.3em;
+}
