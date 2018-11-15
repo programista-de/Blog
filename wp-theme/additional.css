@@ -71,3 +71,10 @@ h3, .h3 {
     font-size: 1.6em;
     line-height: 1.3em;
 }
+
+nav ul li a {
+    color: #eee;
+}
+.site-container > section > div {
+	border: solid 2px #ccc;
+}
