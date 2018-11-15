@@ -2,6 +2,14 @@
 [Tom Sapletta Blog](https://tom-sapletta-com.github.io/Blog/)
 Static Blog based on *.md files, about my ideas, code and todo-list
 
+My real Blog in english:
+[tom.sapletta.com](http://tom.sapletta.com/)
+
+in polish
+[tom.sapletta.pl](http://tom.sapletta.pl/)
+
+in german
+[tom.sapletta.de](http://tom.sapletta.de/)
 
 ## About me
 I'am Hardware and Software developer since my childhood
