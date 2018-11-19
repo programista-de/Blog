@@ -1,4 +1,6 @@
 # Blog
+This is my place where i am writing the main things about my ideas, projects.
+
 [Tom Sapletta Blog](https://tom-sapletta-com.github.io/Blog/)
 Static Blog based on *.md files, about my ideas, code and todo-list
 
