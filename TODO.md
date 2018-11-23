@@ -1,35 +1,4 @@
-## Usuniete
-+ tom-sapletta-com/do  -> przenioslem i usunalem
-+ tom-sapletta-com/phunc-1 -> przenioslem do phpfunc-com
 
-
-## Co dalej, update, move?
-+ tom-sapletta-com/domains-docker
-+ tom-sapletta-com/domains
-+ tom-sapletta-com/wlan
-+ tom-sapletta-com/php-gitlab-api
-
-+ tom-sapletta-com/from-inventor-to-investor
-+ tom-sapletta-com/apidoc-example
-+ tom-sapletta-com/translator
-+ tom-sapletta-com/Resume
-+ tom-sapletta-com/clipboard
-
-## Uporzadkowac
-+ apicra/packages
-+ apicra/dot <- przenioslem dane z tom-sapletta-com/do
-+ apicra/devops-book
-+ apicra/tutorial
-+ apicra/manager
-+ apicra/docker
-+ apicra/gui
-+ apicra/docs
-+ apicra/devops-tools
-
-move/remove
-+ tom-sapletta-com/devops-gui
-+ tom-sapletta-com/devops
-+ phunc-org/Phunc
 
 ## Pilne do konca Listopada 218
 W celu udokumentowania, bo moge potem nie miec czasu na dalszy rozwoj bibliotek.
@@ -68,6 +37,37 @@ vodapi/definition
 ## Systematycznie do uzupelniania w ciagu tygodnia
 tom-sapletta-com/Blog
 
+# Repozytoria, porzadkowanie, 
++ Niewazne
++ Niepilne
+
+## Co dalej, update, move?
++ tom-sapletta-com/domains-docker
++ tom-sapletta-com/domains
++ tom-sapletta-com/wlan
++ tom-sapletta-com/php-gitlab-api
+
++ tom-sapletta-com/from-inventor-to-investor
++ tom-sapletta-com/apidoc-example
++ tom-sapletta-com/translator
++ tom-sapletta-com/Resume
++ tom-sapletta-com/clipboard
+
+## Uporzadkowac
++ apicra/packages
++ apicra/dot <- przenioslem dane z tom-sapletta-com/do
++ apicra/devops-book
++ apicra/tutorial
++ apicra/manager
++ apicra/docker
++ apicra/gui
++ apicra/docs
++ apicra/devops-tools
+
+move/remove
++ tom-sapletta-com/devops-gui
++ tom-sapletta-com/devops
++ phunc-org/Phunc
 
 ## NIEistotne, potem
 + tom-sapletta-com/swagger-api-php
@@ -93,3 +93,7 @@ tom-sapletta-com/Blog
 + radyo-pl/transcription
 + radyo-pl/listener
 + radyo-pl/logo
+
+## Usuniete
++ tom-sapletta-com/do  -> przenioslem i usunalem
++ tom-sapletta-com/phunc-1 -> przenioslem do phpfunc-com
