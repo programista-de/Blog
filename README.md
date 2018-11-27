@@ -18,6 +18,9 @@ I'am Hardware and Software developer since my childhood
 I started with Basic programming on ZX-Spectrum and with The 7400 series of transistor–transistor logic (TTL).
 [History](HISTORY.md)
 
+## Github Statistics 
+[Statistics](STATISTICS.md)
+
 ## IDEA'S
 My ideas are (still) living in the broad spectrum, from software to hardware.
 last 10 years I decided to focus in software.
