@@ -19,22 +19,30 @@ Only first 1000 GitHub users according to the count of followers are taken. This
 ![active users](img/active_users.jpg)      
 
 ## Top Javascript GitHub developers worldwide
-http://git-awards.com/users
 ![js](js_dev.jpg)
 
+http://git-awards.com/users
+
+
 ## Top Php GitHub developers worldwide
-http://git-awards.com/users?utf8=%E2%9C%93&type=world&language=php
 ![top php](top_php.jpg)
+
+http://git-awards.com/users?utf8=%E2%9C%93&type=world&language=php
+
 
 ## Top Php GitHub developers in Germany
 ![top php](top_php_germany.jpg)
+
 http://git-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Germany
+
 
 ## Top Php GitHub developers in Poland
 ![top php](top_php_poland.jpg)
+
 http://git-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Poland
 
 
 
 ## My Stat
 ![my_repo_stat](my_repo_stat.jpg)
+
