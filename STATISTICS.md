@@ -28,4 +28,4 @@ http://git-awards.com/users?utf8=%E2%9C%93&type=world&language=php
 
 
 ## My Stat
-![top php](my_stat.jpg)
+![my_repo_stat](my_repo_stat.jpg)
