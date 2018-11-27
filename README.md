@@ -19,6 +19,7 @@ I started with Basic programming on ZX-Spectrum and with The 7400 series of tran
 [History](HISTORY.md)
 
 ## Github Statistics 
+On which position are Poland and Germany in PHP, and where is my profile?
 [Statistics](STATISTICS.md)
 
 ## IDEA'S
