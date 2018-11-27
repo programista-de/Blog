@@ -27,9 +27,11 @@ http://git-awards.com/users?utf8=%E2%9C%93&type=world&language=php
 ![top php](top_php.jpg)
 
 ## Top Php GitHub developers in Germany
+![top php](top_php_germany.jpg)
 http://git-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Germany
 
 ## Top Php GitHub developers in Poland
+![top php](top_php_poland.jpg)
 http://git-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Poland
 
 
