@@ -42,7 +42,7 @@ PHP, Js, NodeJs, ...
 * Ansible,
 * Openshift
 
-## What I would like to learn better
+## What I would like to learn or known better
 * ID scanning, OCR, OpenCV 
 
 ## Priorities 
