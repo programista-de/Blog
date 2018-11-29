@@ -7,6 +7,16 @@
 * DevOpsTerminal Academy
   - Leading the online training with this tool
   
+Apicra
+  - prepare the basic scripts
+  
+
 2019
 * DevOpsTerminal Community
   - creating more channel to popularize on social media the Idea of DevOpsTerminal
+
+UnitApi
+  - preparing the basic examples for API
+  
+VodaPi
+  - basic data, and exporting/importing
