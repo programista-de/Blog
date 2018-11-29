@@ -1,6 +1,4 @@
-
-
-## Pilne do konca Listopada 218
+## Do konca Grudnia 2018
 W celu udokumentowania, bo moge potem nie miec czasu na dalszy rozwoj bibliotek.
 kod powinien byc dobrze opisany i latwy do nauczyenia dla potencjalnych uzytkownikow
 
