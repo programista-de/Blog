@@ -18,6 +18,9 @@ I'am Hardware and Software developer since my childhood
 I started with Basic programming on ZX-Spectrum and with The 7400 series of transistor–transistor logic (TTL).
 [History](HISTORY.md)
 
+## About Opensource
+[OPENSOURCE](OPENSOURCE.md)
+
 ## Github Statistics 
 On which position are Poland and Germany in PHP, and where is my profile?
 [Statistics](STATISTICS.md)
