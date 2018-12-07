@@ -50,6 +50,9 @@ Languages:
 PHP, Js, NodeJs, ...
 [SKILLS](SKILLS.md)
 
+## How I am working, writing
+[PATTERNS](PATTERNS.md)
+
 ## WHAT I would like to know (in practice)
 * Ansible,
 * Openshift
