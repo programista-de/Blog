@@ -15,8 +15,11 @@ in german
 
 ## Communication
 Mowie po polsku
+
 Ich spreche deutsch
+
 I speak english
+
 Я говорю по-русски
 
 ## About me
