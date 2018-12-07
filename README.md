@@ -13,6 +13,12 @@ in polish
 in german
 [tom.sapletta.de](http://tom.sapletta.de/)
 
+## Communication
+Mowie po polsku
+Ich spreche deutsch
+I speak english
+Я говорю по-русски
+
 ## About me
 I'am Hardware and Software developer since my childhood
 I started with Basic programming on ZX-Spectrum and with The 7400 series of transistor–transistor logic (TTL).
